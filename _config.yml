@@ -1,0 +1,21 @@
+title: Pulsar Ventures
+description: >- # this means to ignore newlines until "domain:"
+  Pulsar Ventures content and thoughts
+domain: pulsarventures.github.io
+url: https://pulsarventures.github.io/content
+baseurl: ""
+github_username: pulsarventures
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+
+# Front Matter
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
