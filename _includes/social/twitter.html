@@ -1,0 +1,24 @@
+{% assign share_url = page.url | absolute_url %}
+{% assign encoded_url = share_url | url_encode %}
+{% assign title = page.platforms.twitter.title | default: page.title | url_encode %}
+{% assign hashtags = "" %}
+{% if page.tags and page.tags != empty %}
+  {% for tag in page.tags limit:3 %}
+    {% if forloop.first %}
+      {% assign hashtags = tag | replace: '-', '' %}
+    {% else %}
+      {% assign hashtags = hashtags | append: ',' | append: tag | replace: '-', '' %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+<a href="https://twitter.com/intent/tweet?text={{ title }}&url={{ encoded_url }}&hashtags={{ hashtags }}" 
+   class="twitter-share-button" 
+   target="_blank" 
+   rel="noopener noreferrer" 
+   title="Share on Twitter">
+  <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M17.9442 5.77234C17.3629 6.04091 16.7396 6.21923 16.0896 6.29568C16.7541 5.89545 17.2635 5.26259 17.5046 4.50927C16.8793 4.8787 16.1897 5.1407 15.4599 5.29202C14.8759 4.66461 14.0435 4.2666 13.1239 4.2666C11.3544 4.2666 9.92173 5.70089 9.92173 7.46715C9.92173 7.72843 9.9504 7.98285 10.0078 8.22763C7.34572 8.09131 4.97195 6.81871 3.37242 4.84772C3.08437 5.33856 2.92173 5.89595 2.92173 6.48907C2.92173 7.61507 3.48287 8.60496 4.34592 9.17142C3.82433 9.15505 3.33284 9.00892 2.9039 8.76923V8.81133C2.9039 10.3458 3.99136 11.6322 5.44867 11.9371C5.16906 12.0141 4.87424 12.0547 4.56839 12.0547C4.35176 12.0547 4.14081 12.0349 3.93648 11.9984C4.36443 13.2637 5.53942 14.1807 6.93249 14.2087C5.8483 15.0587 4.48071 15.5634 3.00575 15.5634C2.73789 15.5634 2.47345 15.5486 2.21571 15.5187C3.62657 16.4179 5.29598 16.9404 7.08594 16.9404C13.1156 16.9404 16.3988 12.1091 16.3988 7.93159C16.3988 7.78795 16.3962 7.64455 16.3901 7.50313C17.0245 7.04149 17.5066 6.45069 17.9442 5.77234Z" fill="#1DA1F2"/>
+  </svg>
+  Share on Twitter
+</a>

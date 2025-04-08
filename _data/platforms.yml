@@ -1,0 +1,43 @@
+# Platform-specific publishing settings
+
+# LinkedIn
+linkedin:
+  title_max_length: 100
+  description_max_length: 500
+  image_width: 1200
+  image_height: 628
+  content_format: markdown
+  hashtags_enabled: true
+  link_tracking: true
+  
+# Twitter/X
+twitter:
+  title_max_length: 140
+  description_max_length: 280
+  image_width: 1200
+  image_height: 675
+  content_format: markdown
+  hashtags_enabled: true
+  link_tracking: true
+  
+# Facebook
+facebook:
+  title_max_length: 100
+  description_max_length: 500
+  image_width: 1200
+  image_height: 630
+  content_format: markdown
+  hashtags_enabled: true
+  link_tracking: true
+  
+# Medium
+medium:
+  title_max_length: 100
+  description_max_length: 500
+  image_width: 1400
+  image_height: 788
+  content_format: markdown
+  hashtags_enabled: true
+  link_tracking: true
+  import_format: markdown
+  canonical_url_required: true

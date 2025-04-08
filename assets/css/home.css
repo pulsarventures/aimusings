@@ -1,8 +1,54 @@
+/* Additional home page specific styles */
+
+.home-section {
+  margin-bottom: 40px;
+}
+
+.home-section h2 {
+  border-bottom: 2px solid var(--light-grey);
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.featured-box {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: var(--radius);
+  margin-bottom: 30px;
+  border-left: 5px solid var(--primary-color);
+}
+
+.featured-box h3 {
+  margin-top: 0;
+}
+
+/* Responsive media queries specific to home page */
+@media only screen and (max-width: 600px) {
+  .home-section {
+    margin-bottom: 30px;
+  }
+}
+
 @media only screen and (min-width: 768px) {
-    .col {
-        width: 40%;
-    }
-    .leftmost-col {
-        width: 60%;
-    }
+  .col {
+    width: 46%;
+  }
+  .leftmost-col {
+    width: 58%;
+  }
+  .rightmost-col {
+    width: 42%;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .col {
+    width: 48%;
+  }
+  .leftmost-col {
+    width: 65%;
+  }
+  .rightmost-col {
+    width: 35%;
+  }
 }

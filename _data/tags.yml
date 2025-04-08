@@ -1,0 +1,91 @@
+# Tag definitions and metadata
+# This file helps organize and categorize tags used across the site
+
+# AI/ML
+ai:
+  name: AI
+  description: Artificial Intelligence and its applications
+  display_name: AI
+  color: "#3366ff"
+  
+machine-learning:
+  name: machine-learning
+  description: Machine learning techniques, algorithms, and applications
+  display_name: Machine Learning
+  color: "#6633ff"
+  
+nlp:
+  name: nlp
+  description: Natural Language Processing
+  display_name: NLP
+  color: "#9933ff"
+
+# Business
+business:
+  name: business
+  description: Business strategy, models, and management
+  display_name: Business
+  color: "#ff3366"
+  
+startup:
+  name: startup
+  description: Startup related topics, challenges, and insights
+  display_name: Startup
+  color: "#ff6633"
+  
+venture-studio:
+  name: venture-studio
+  description: Venture studio model and approaches
+  display_name: Venture Studio
+  color: "#ff9933"
+
+# Technology
+technology:
+  name: technology
+  description: General technology topics and trends
+  display_name: Technology
+  color: "#33ff66"
+  
+software:
+  name: software
+  description: Software development and engineering
+  display_name: Software
+  color: "#33ff99"
+  
+web-development:
+  name: web-development
+  description: Web development technologies and practices
+  display_name: Web Development
+  color: "#33ffcc"
+
+# Investments
+investing:
+  name: investing
+  description: Investment strategies, opportunities, and insights
+  display_name: Investing
+  color: "#ff3399"
+  
+finance:
+  name: finance
+  description: Financial topics and analysis
+  display_name: Finance
+  color: "#ff33cc"
+
+# Projects
+projects:
+  name: projects
+  description: Project updates and showcases
+  display_name: Projects
+  color: "#ffcc33"
+  
+finciples:
+  name: finciples
+  description: Finciples project updates and insights
+  display_name: Finciples
+  color: "#ffcc66"
+  
+fse360:
+  name: fse360
+  description: FSE 360 (Full Stack Entrepreneur) project updates and insights
+  display_name: FSE 360
+  color: "#ffcc99"

@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}
+      
+      {% if page.tags %}
+      <span class="post-tags">
+        {% for tag in page.tags %}
+          <span class="related-tag">{{ tag }}</span>
+        {% endfor %}
+      </span>
+      {% endif %}
+    </p>
+    
+    {% if page.image %}
+    <div class="post-featured-image">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="featured-image">
+    </div>
+    {% endif %}
+    
+    {% if page.excerpt %}
+    <div class="post-pitch">
+      {{ page.excerpt }}
+    </div>
+    {% endif %}
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {% if page.categories contains 'blog' or page.categories contains 'notes' %}
+  <div class="related-posts-section">
+    <h2>Related Posts</h2>
+    {% include related.html %}
+  </div>
+  {% endif %}
+
+  {% if site.cross_platform.enabled and page.platforms %}
+  <div class="platform-shares">
+    <h3>Share on:</h3>
+    {% include social-share.html %}
+  </div>
+  {% endif %}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
