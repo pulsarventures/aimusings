@@ -3,4 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+extra_stylesheet: /assets/css/home.css
 ---

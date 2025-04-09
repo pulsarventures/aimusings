@@ -19,10 +19,10 @@
           </label>
 
           <div class="trigger">
-            <a class="page-link" href="{{ site.baseurl }}/blog/">Blog</a>
-            <a class="page-link" href="{{ site.baseurl }}/notes/">Notes</a>
-            <a class="page-link" href="{{ site.baseurl }}/projects/">Projects</a>
-            <a class="page-link" href="{{ site.baseurl }}/about/">About</a>
+            <a class="page-link {% if page.url contains '/blog/' %}active{% endif %}" href="{{ site.baseurl }}/blog/">Blog</a>
+            <a class="page-link {% if page.url contains '/notes/' %}active{% endif %}" href="{{ site.baseurl }}/notes/">Notes</a>
+            <a class="page-link {% if page.url contains '/projects/' %}active{% endif %}" href="{{ site.baseurl }}/projects/">Projects</a>
+            <a class="page-link {% if page.url contains '/about/' %}active{% endif %}" href="{{ site.baseurl }}/about/">About</a>
           </div>
         </nav>
       </div>

@@ -19,6 +19,8 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.6;
+  background-color: #f5f7fa;
+  color: var(--dark-grey);
 }
 
 a {
@@ -57,17 +59,39 @@ a {
 .site-header {
   border-top: none;
   border-bottom: 1px solid var(--light-grey);
-  min-height: 60px;
+  min-height: 70px;
   position: relative;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  margin-bottom: 30px;
 }
 
 .site-title {
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: -0.5px;
+  font-size: 24px;
+  color: var(--primary-color);
+}
+
+.site-title:hover {
+  text-decoration: none;
+  color: darken(#2a7ae2, 10%);
+}
+
+.site-nav {
+  line-height: 70px;
 }
 
 .site-nav .page-link {
   margin-left: 24px;
+  font-weight: 500;
+  color: var(--dark-grey);
+  transition: color 0.2s ease;
+}
+
+.site-nav .page-link:hover {
+  color: var(--primary-color);
+  text-decoration: none;
 }
 
 /* Post styling */
@@ -250,11 +274,19 @@ hr.big-pad {
 /* Responsive grid system */
 .row {
   box-sizing: border-box;
-  margin: 0;
+  margin: 0 0 var(--spacing-unit) 0;
   padding: 0;
   display: flex;
   flex-direction: column;
   gap: var(--spacing-unit);
+  width: 100%;
+  clear: both;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .col {
@@ -262,6 +294,9 @@ hr.big-pad {
   box-sizing: border-box;
   width: 100%;
   flex: 1;
+  padding: 15px;
+  background: #fff;
+  border-radius: var(--radius);
 }
 
 .col > img {
@@ -309,23 +344,43 @@ hr.big-pad {
     text-align: right;
     padding: 0 10px;
     z-index: 1;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   }
 
   .site-nav .page-link {
     display: block;
-    padding: 5px 10px;
+    padding: 8px 12px;
     margin-left: 0;
     margin-right: 0;
+    border-bottom: 1px solid var(--light-grey);
+  }
+  
+  .site-nav .page-link:last-child {
+    border-bottom: none;
   }
 
   .post-title {
     font-size: 1.8rem;
+  }
+  
+  .wrapper {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .project-item {
+    margin-bottom: 15px;
+  }
+  
+  .project-thumb {
+    height: 150px;
   }
 }
 
 @media screen and (min-width: 768px) {
   .row {
     flex-direction: row;
+    flex-wrap: wrap;
   }
 
   .col {
@@ -336,6 +391,7 @@ hr.big-pad {
   .leftmost-col {
     flex: 3;
     padding-right: calc(var(--spacing-unit) / 2);
+    border-right: 1px solid var(--light-grey);
   }
 
   .rightmost-col {
@@ -345,6 +401,12 @@ hr.big-pad {
 
   .projects-list {
     grid-template-columns: 1fr 1fr;
+  }
+  
+  h2 {
+    border-bottom: 2px solid var(--light-grey);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
   }
 }
 
