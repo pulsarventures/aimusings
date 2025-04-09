@@ -21,7 +21,7 @@
 title: Pulsar Ventures
 email: spradhip@pulsarventures.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Thoughts
+  Pulsar Ventures is a venture studio that combines advisory, consulting, and product development experience to accelerate business growth through strategic innovation and capital deployment.
 baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://pulsarventures.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
