@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Welcome to My Blog"
-date:   2025-04-09 12:00:00 -0500
-categories: jekyll update
+date:   2025-03-01 12:00:00 -0500
+categories: musings update
 ---
 
 Welcome to my new Jekyll blog! This is a sample post to get started.
