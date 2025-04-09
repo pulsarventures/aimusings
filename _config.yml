@@ -34,7 +34,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-tagging
+  - jekyll/tagging
 
 # Content Collections
 collections:
