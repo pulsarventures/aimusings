@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the about page for my Jekyll blog. Here you can share information about yourself or your organization.
+<p>{{ site.description | escape }}</p>
 
 ## Our Mission
 
