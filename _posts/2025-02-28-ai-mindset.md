@@ -41,4 +41,4 @@ We are living through an inflection point. What’s been shifting your thinking 
 
 #AI #CoIntelligence #Augmentation #all-in-on-ai
 
-![The-Intelligent-Age](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fia%2Esamaltman%2Ecom%2F&urlhash=hESn&trk=public_post_feed-article-content)
+[The-Intelligent-Age](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fia%2Esamaltman%2Ecom%2F&urlhash=hESn&trk=public_post_feed-article-content)
