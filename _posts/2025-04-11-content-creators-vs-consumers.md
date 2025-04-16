@@ -28,3 +28,5 @@ Everyone won’t become a coder—and shouldn’t—and that’s okay!
 #aimusings #vibecoding #AIAgents
 
 ![Creators vs Consumers](https://media.licdn.com/dms/image/v2/D5622AQHVz2Na0m1bAQ/feedshare-shrink_800/B56ZYlQvMQGUAg-/0/1744381868032?e=2147483647&v=beta&t=UQWkgm8Ng933B-DZS11-gkOtGsONAjYTf7bqHImMQRs)
+![statistics](https://media.licdn.com/dms/image/v2/D5622AQHeStY4oYDcWg/feedshare-shrink_20/B56ZYlQvL6GsA0-/0/1744381868199?e=1747872000&v=beta&t=ERRSOi97Zwh5lSxBTunoJX1sgbL5DMfSxJ6clHCoHHk)
+![time taken](https://media.licdn.com/dms/image/v2/D5622AQEdfItmaXPotA/feedshare-shrink_2048_1536/B56ZYlQvMFGsAs-/0/1744381868202?e=1747872000&v=beta&t=j9Lh0oXcgD7s4KWHnzdMvbueZt2Y0w3k9zzPGwnq6Po)
