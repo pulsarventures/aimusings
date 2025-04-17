@@ -23,4 +23,4 @@ I had the pleasure of meeting and having meaningful discussions with Shafika H.,
 Looking forward to the next #TEDxAtlanta and the ideas it will spark! I would highly recommend attending one if you have the opportunity.
 
 ![1](https://media.licdn.com/dms/image/v2/D4E2CAQF5psq_YMvBIA/comment-image-shrink_8192_480/B4EZVwWLlLH0AM-/0/1741346618165?e=1745413200&v=beta&t=knLksWCLBj5zAjiosuuBnFbAFM2m6ebEb1bu5m6HGQY)
-![2](https://www.linkedin.com/posts/sree-pradhip_tedxatlanta-tedxatlanta-activity-7303731064638754816-Tw8e/#?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BkC1OXLSaSBSOqADMBhgTxQ%3D%3D)
+![2](https://media.licdn.com/dms/image/v2/D4E2CAQHgfnd1XOupFw/comment-image-shrink_8192_480/B4EZVwYOQzHcAI-/0/1741347153306?e=2147483647&v=beta&t=4AWL8cYdpDlXadm_-Y9czJc5DMenWCVOs2UdtoRnLmg)
