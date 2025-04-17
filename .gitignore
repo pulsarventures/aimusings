@@ -6,3 +6,4 @@ vendor
 Gemfile.lock
 .bundle
 *.obsidian*
+*.DS_Store

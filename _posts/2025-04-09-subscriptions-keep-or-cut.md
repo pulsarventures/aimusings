@@ -27,14 +27,7 @@ I'll post my answer as the poll closes - but I am super clear on what my pick is
   <label>
     <input type="radio" name="subscription" value="Spotify"> Spotify
   </label><br>
-  <button type="submit">Submit</button>
+  <!--button type="submit">Submit</button-->
 </form>
-
-```javascript
-// Sample code
-function hello() {
-  console.log("Hello, Jekyll!");
-}
-```
 
 Check back soon for more updates!
