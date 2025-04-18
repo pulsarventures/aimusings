@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI mindset"
+title: "AI Mindset"
 date: 2025-02-28 12:00:00 -0500
 categories: musings update
 ---
