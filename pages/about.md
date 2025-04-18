@@ -30,6 +30,8 @@ P.S. I considered calling these deliberations, reflections, or ruminations—but
 
 **Pulsar Ventures**
 
-<img src="/assets/img/pv_logo_black_mid.png" alt="PVLogo" style="width: 10%; display: block; margin: 0;">
+<a href="https://pulsarventures.io">
+    <img src="/assets/img/pv_logo_black_mid.png" alt="PVLogo" style="width: 10%; display: block; margin: 0;">
+</a>
 
 As a venture studio, we combine advisory, consulting, product development experience in a fractional capacity to accelerate growth. With the right people and process we help you experiment, iterate, and unlock new opportunities. Whether you’re launching, optimizing, or expanding, our approach ensures you stay agile, profitable, and in control of your growth journey.
