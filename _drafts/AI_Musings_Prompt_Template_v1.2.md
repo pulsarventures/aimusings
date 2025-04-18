@@ -9,8 +9,6 @@ I am building a writing system called **AI Musings** for LinkedIn, where I share
 
 (placeholder)
 
-Use the following structure and constraints:
-
 ---
 
 ## 🔹 Your Role
