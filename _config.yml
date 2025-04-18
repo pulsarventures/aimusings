@@ -27,6 +27,7 @@ url: "https://pulsarventures.github.io" # the base hostname & protocol for your 
 #twitter_username: jekyllrb
 github_username:  pulsarventures
 linkedin_url: https://www.linkedin.com/in/sree-pradhip
+beehiiv_newsletter_url: https://pulsarventures-newsletter.beehiiv.com/subscribe
 
 # Build settings
 theme: minima
