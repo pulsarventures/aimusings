@@ -20,9 +20,4 @@ Lately, I’ve been at a bit of a crossroads, sitting in on AI roundtables and t
 - What role will chatbots and AI play in how people process emotions, relationships, and loneliness?
 - As we increasingly interact and collaborate with AI agents, what’s the right way to communicate with them? Should we be polite? Direct? Does it even matter?
 
-![1](https://media.licdn.com/dms/image/v2/D4E22AQGLfIQtM4aDtw/feedshare-shrink_2048_1536/B4EZXY_oDJGgAo-/0/1743102319753?e=1747872000&v=beta&t=YSW5Nun59StrZu9Zk_Bdz-6yJzf_NqbtIzsgG7RNBIM)
 ![2](https://media.licdn.com/dms/image/v2/D4E22AQG3FSSW8e_uXg/feedshare-shrink_2048_1536/B4EZXY_oDRGgAo-/0/1743102318660?e=1747872000&v=beta&t=cebYPTxKq6rHC8_q6lQY83mPoKW1hCsKHVrGxTktbCw)
-![3](https://media.licdn.com/dms/image/v2/D4E22AQGH5FMucgLyIg/feedshare-shrink_2048_1536/B4EZXY_oDPG0Ao-/0/1743102319643?e=1747872000&v=beta&t=WrIpn3s6kCiYnKI02A6en5IAJHivobWOXxpLOm79d7s)
-![4](https://media.licdn.com/dms/image/v2/D4E22AQFHR0Kw-5tM5w/feedshare-shrink_2048_1536/B4EZXY_n.GGYAw-/0/1743102317745?e=1747872000&v=beta&t=dGJO8CXxK2K3Ttjk599MiCmcrx9MUn8UyC5zu3WUiaw)
-![5](https://media.licdn.com/dms/image/v2/D4E22AQHhWwB-LqxZ7Q/feedshare-shrink_2048_1536/B4EZXY_oBmGYAo-/0/1743102318679?e=1747872000&v=beta&t=PhQCVT8YJ3jSPCWu8ynPIqZVBBs-Og9pe6jo0MhjRF8)
-![6](https://media.licdn.com/dms/image/v2/D4E22AQG5dMW51HgU9w/feedshare-shrink_2048_1536/B4EZXY_oC8HUAs-/0/1743102318945?e=1747872000&v=beta&t=QIfKMhyE3eybT39puAQZrmC-i8ISC-qjju5EHem1aMw)
