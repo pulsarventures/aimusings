@@ -37,6 +37,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll/tagging
+  - jekyll-paginate
 
 # Content Collections
 collections:
@@ -141,8 +142,10 @@ cross_platform:
     - facebook
     - medium
 
+paginate: 5
 page_excerpts: true
 permalink: /:categories/:year/:month/:day/:title/
 
 # To show excerpts in the home page
 show_excerpts: true
+
