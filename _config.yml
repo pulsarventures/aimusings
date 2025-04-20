@@ -143,3 +143,6 @@ cross_platform:
 
 page_excerpts: true
 permalink: /:categories/:year/:month/:day/:title/
+
+# To show excerpts in the home page
+show_excerpts: true
