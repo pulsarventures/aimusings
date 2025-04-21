@@ -146,3 +146,7 @@ permalink: /:categories/:year/:month/:day/:title/
 
 # To show excerpts in the home page
 show_excerpts: true
+
+# Pagination
+paginate: 10
+paginate_path: "/posts/page:num/"

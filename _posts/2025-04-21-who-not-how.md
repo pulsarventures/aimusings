@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "New meaning to Who not How"
+title: "New meaning of Who not How"
 date: 2025-04-21 12:00:00 -0500
-categories: musings
+categories: musings update
 ---
 
 **We used to ask: “Who can help me get this done?”**
