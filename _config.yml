@@ -146,3 +146,9 @@ permalink: /:categories/:year/:month/:day/:title/
 
 # To show excerpts in the home page
 show_excerpts: true
+
+# disqus comments
+disqus:
+  shortname: "amusing-space"
+
+google_analytics: "GTM-NK7NFV5H"
