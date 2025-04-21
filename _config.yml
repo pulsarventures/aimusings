@@ -148,6 +148,8 @@ permalink: /:categories/:year/:month/:day/:title/
 show_excerpts: true
 
 # Pagination
+gems:
+   - jekyll-paginate
 paginate: 10
 paginate_path: "/posts/page:num/"
 
