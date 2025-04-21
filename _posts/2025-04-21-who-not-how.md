@@ -5,11 +5,9 @@ date: 2025-04-21 12:00:00 -0500
 categories: musings update
 ---
 
-**We used to ask: “Who can help me get this done?”**
-
+We used to ask: “Who can help me get this done?”
 Now, in the Intelligent Age, the better question is:
-
-**“Which Agent can do this for me?”**
+Which Agent can do this for me?”
 
 This shift isn’t subtle — it’s a complete rethinking of leverage.
 
