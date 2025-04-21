@@ -141,7 +141,7 @@ cross_platform:
     - facebook
     - medium
 
-page_excerpts: true
+# page_excerpts: true
 permalink: /:categories/:year/:month/:day/:title/
 
 # To show excerpts in the home page
