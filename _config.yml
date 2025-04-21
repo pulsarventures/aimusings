@@ -149,12 +149,6 @@ show_excerpts: true
 
 # disqus comments
 disqus:
-  shortname: amusing-space
+  shortname: "amusing-space"
 
 google_analytics: "GTM-NK7NFV5H"
-
-# Pagination
-gems:
-  - jekyll-paginate
-paginate: 10
-paginate_path: "/posts/page:num/"

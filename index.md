@@ -5,4 +5,6 @@ title: Home
 comments: true
 ---
 
-Welcome to <b>AIMusings</b>!
+
+Welcome to **AIMusings**!
+
