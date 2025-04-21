@@ -46,4 +46,8 @@ layout: default
   <!-- End Post Navigation -->
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
 </article>
