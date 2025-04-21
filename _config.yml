@@ -145,4 +145,4 @@ cross_platform:
 permalink: /:categories/:year/:month/:day/:title/
 
 # To show excerpts in the home page
-# show_excerpts: true
+show_excerpts: true
