@@ -1,5 +1,10 @@
-
 ---
+layout: post
+title:  "New meaning to Who not How"
+date:   2025-04-21 12:00:00 -0500
+categories: musings
+---
+
 
 **We used to ask: “Who can help me get this done?”**
 
@@ -107,7 +112,9 @@ It’s:
 
 **“Which Agent should I activate?”**
 
----
+“This isn’t about replacing your human team with bots—it’s about thoughtfully building a hybrid team that fits your organization and enhances your life.”  
+  
+The book by [](https://www.linkedin.com/in/ACoAAA9aWawBEQ21azIvKdCl_i76JylW_somBLM)[Dr. Benjamin Hardy](https://www.linkedin.com/in/drbenjaminhardy/) and [](https://www.linkedin.com/in/ACoAACvUMFsBcDLzoID0FY_WO6qq5gEUqnxXpP0)[Dan Sullivan](https://www.linkedin.com/in/dansullivansc/) had a profound impact on my thinking thinking a a few years ago. This weekend watching [](https://www.linkedin.com/in/ACoAAAsrEwwBfTaP9f_ePDWY-5E6DcZKqudVJ34)[Flo Crivello](https://www.linkedin.com/in/florentcrivello/) on [](https://www.linkedin.com/in/ACoAAAKW8GwBf5Q7cqvUPPEhu4ymxenJmlm1960)[Greg Isenberg](https://www.linkedin.com/in/gisenberg/) reinforced above insights and echoed with the theme that [](https://www.linkedin.com/in/ACoAAAAPYh4B-8PDaeuupHhVsCZG4VmcKZiHRKE)[Usman Sheikh](https://www.linkedin.com/in/usmans/) talks about on his posts.
 
 **Hashtags**
 
@@ -115,36 +122,4 @@ It’s:
 
 #IntelligentAge
 
----
-
-**Citations**
-
-1. _Dan Sullivan & Dr. Benjamin Hardy – Who Not How_ – Book introducing the delegation mindset that laid the groundwork for agentic thinking
-    
-    https://www.goodreads.com/en/book/show/55546674
-    
-2. _OpenAI Dev Day_ – Sam Altman describes future workflows driven by AI agents that “do tasks, not just answer questions”
-    
-    https://openai.com/blog/devday-2023
-    
-
-
-**Influencers to Tag**
-
-- Paul Yacoubian (Founder, Copy.ai – on AI workflows and automation)
-    
-- Ben Tossell (Founder, Ben’s Bites – on AI product trendspotting)
-    
-- Rachel Woods (Founder, The AI Exchange – practical takes on agentic workflows)
-    
-
----
-
-**Illustration Ideas**
-
-1. **Then vs Now Grid** – “Hire a Who” vs “Deploy an Agent” mapped across key roles (e.g., analyst, writer, researcher)
-    
-2. **Agent Stack Diagram** – Visualize a startup’s Agent stack replacing traditional org chart roles
- 
-3. **Network Map** – Visual showing “people you know” + “Agents you deploy” as two halves of your modern network
-    
+![Image](https://media.licdn.com/dms/image/v2/D4E22AQHSauTbJUppyQ/feedshare-shrink_800/B4EZZYH9IwH0Ag-/0/1745235203289?e=1747872000&v=beta&t=KAYZ0YaapIAIiRlK9GgvUjWuX0VXzXtVIJgPInd4nM4)
