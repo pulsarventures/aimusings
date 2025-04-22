@@ -149,6 +149,7 @@ show_excerpts: true
 
 # disqus comments
 disqus:
+  enabled: false
   shortname: "amusing-space"
 
 google_analytics: "GTM-NK7NFV5H"

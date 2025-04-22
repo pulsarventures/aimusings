@@ -45,7 +45,7 @@ layout: default
   </div>
   <!-- End Post Navigation -->
  
-  {%- if site.disqus.shortname -%}
+  {%- if site.disqus.enabled == true -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
