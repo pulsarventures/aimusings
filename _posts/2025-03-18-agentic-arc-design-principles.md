@@ -4,6 +4,7 @@ title: "Agentic Architecture and Design Principles"
 date: 2025-03-18 12:00:00 -0500
 categories: musings update
 ---
+Design agentic systems by leveraging OOP, modularization, low-code tools, traditional tech stacks, and staying updated on AI trends for scalable, efficient architectures.
 
 Time to code is reducing by the day and it is highly likely that the tooling you used or tech stack you used will change before you complete your project. Here are some principles to consider when designing agentic systems, 
 

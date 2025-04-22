@@ -4,6 +4,7 @@ title: "Flow State"
 date: 2025-04-01 12:00:00 -0500
 categories: musings update
 ---
+Explores achieving flow state through environment, tools, and AI-enhanced workflows for writing, drawing, and coding, highlighting AI's role in sustaining creativity.
 
 I’ve been experiencing a lot of flow state recently. I’ve read *Deep Work* by Cal Newport and recently came across an article by Greg Isenberg on why flow matters—especially for Founders and Creatives.
 

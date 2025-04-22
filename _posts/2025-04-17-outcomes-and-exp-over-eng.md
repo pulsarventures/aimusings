@@ -4,6 +4,7 @@ title: "Outcomes and experiences over engineering"
 date: 2025-04-17 12:00:00 -0500
 categories: musings update
 ---
+Focus on AI's impact and user experience, not its mechanics, emphasizing seamless integration and empowering outcomes over technical details.
 
 We need to reframe the conversation around AI.
 

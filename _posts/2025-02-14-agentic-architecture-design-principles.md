@@ -4,6 +4,7 @@ title:  "Agentic Architecture and Design Principles"
 date:   2025-02-14 12:00:00 -0500
 categories: musings update
 ---
+Agentic system design emphasizes modularity, atomic agents, low-code tools, traditional tech stacks for complexity, and preparing for purpose-built LLMs and evolving AI UX.
 
 Time to code is reducing by the day, and it is highly likely that the tooling or tech stack you use will change before you complete your project. Here are some principles to consider when designing agentic systems:
 

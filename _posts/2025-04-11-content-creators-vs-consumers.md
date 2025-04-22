@@ -4,6 +4,7 @@ title: "Content Creators vs Content Consumers"
 date: 2025-04-11 12:00:00 -0500
 categories: musings update
 ---
+We examine the gap between creators and consumers, highlighting AI's role in empowering developers and non-developers while questioning universal coding adoption.
 
 Lately, LinkedIn, X, and other platforms are abuzz with “vibe coding and building agents.” With AI-powered IDEs like Cursor or Windsurf, or Low/No Code platforms like Bolt, Loveable, and Replit, it seems like anyone—and their grandma—can spin up an app over the weekend.
 

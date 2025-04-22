@@ -4,6 +4,7 @@ title: "My AI Toolkit Apr 2025"
 date: 2025-04-10 12:00:00 -0500
 categories: musings update
 ---
+This post explores AI tools for research and creative work, highlights ChatGPT and Claude+Cursor, and envisions AI agents to streamline work management.
 
 I started looking at the list of AI tools I have been using regularly, and the list includes what you might expect: ChatGPT, Claude, Cursor, Gamma, Gemini, Grok, Leonardo, Perplexity (alphabetically listed).
 

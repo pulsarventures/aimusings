@@ -4,6 +4,7 @@ title: "AI Tech Stack"
 date: 2025-02-27 12:00:00 -0500
 categories: musings update
 ---
+Sharing the author's AI tech stack, covering tools for research, marketing, design, coding, content creation, and LLM provisioning, inviting readers to share theirs.
 
 Just sharing my AI Tech Stack with everyone, curious what is yours
 

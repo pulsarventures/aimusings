@@ -4,6 +4,7 @@ title:  "The New Age Interview"
 date:   2025-04-07 12:00:00 -0500
 categories: new age interview
 ---
+Reflects on rigorous interview preparation, including Amazon's structured process, leadership principles, STAR-format storytelling, and lessons from a Fractional CTO interview.
 
 ## My Interview Experiences: A Tale of Two Processes
 

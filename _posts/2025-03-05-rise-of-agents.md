@@ -4,6 +4,7 @@ title:  "Rise of Agents"
 date:   2025-03-05 12:00:00 -0500
 categories: musings update agents
 ---
+This post explores the future of AI agents in enterprises, addressing governance, marketplaces, training, and their integration alongside human workers.
 
 Ahead of a discovery session with [PeopleFlow.io](https://peopleflow.io), I had the chance to watch this [Workday AI video](https://lnkd.in/etePhJ_X) and walked away with some intriguing concepts.
 

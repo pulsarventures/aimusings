@@ -4,6 +4,7 @@ title:  "Eisenhower Matrix in the Age of AI Agents"
 date:   2025-04-03 12:00:00 -0500
 categories: musings update
 ---
+AI agents redefine delegation in the Eisenhower Matrix, automating tasks like scheduling, note-taking, CRM updates, and document synthesis for enhanced productivity.
 
 We’ve all seen the Eisenhower Matrix: Urgent vs Important, split into four boxes – Do, Decide, Delegate, Delete. Let's take a closer look at **"Delegate."**
 

@@ -4,6 +4,7 @@ title: "The Evolution of Work: Roles, Processes, Decision Making"
 date: 2025-03-11 12:00:00 -0500
 categories: musings update work
 ---
+This post explores AI's impact on organizational roles, processes, and decision-making, highlighting shifts in workflows, leadership, and human-AI collaboration.
 
 Over the past few days, I've had two distinct streams of thought—one around organizational structures and another around process/workflows and decision-making. Here’s my attempt at blending them into a coherent narrative.
 

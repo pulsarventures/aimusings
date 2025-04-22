@@ -4,6 +4,7 @@ title:  "Storytelling, Learning, Communicating"
 date:   2025-04-02 12:00:00 -0500
 categories: musings update
 ---
+Reflections on storytelling, authenticity, and AI's impact on learning, emotions, and communication, sparked by a talk and ongoing conversations about AI's evolving role.
 
 Had the chance to attend a great talk by [Neha Negandhi](https://www.linkedin.com/in/publicspeakingcoachtedxspeaker/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BuLcM4vv4T0OJoQhtTBs2zw%3D%3D) and [Javier Santana](https://www.linkedin.com/in/javierjsantana/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BuLcM4vv4T0OJoQhtTBs2zw%3D%3D) on Tuesday at [Tech Alpharetta](https://www.linkedin.com/company/tech-alpharetta/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BuLcM4vv4T0OJoQhtTBs2zw%3D%3D) . Coincidentally, I had spoken at the same venue just the day before— interesting to return as an observer and take notes!
 
