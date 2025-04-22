@@ -9,10 +9,32 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  {%- if site.polls.size > 0 -%}
+    <h2 class="post-list-heading">Latest Polls</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {% assign latest_polls = site.polls | slice: 0, 5 %}
+      {% for poll in latest_polls %}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ poll.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ poll.url | relative_url }}">{{ poll.title | escape }}</a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ poll.excerpt | strip_html | truncate: 100 }}
+        {%- endif -%}
+      </li>
+      {% endfor %}
+    </ul>
+  {%- endif -%}
+
+  <hr class="divider" />
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Latest Posts" }}</h2>
+    <ul class="post-list">
+      {% assign latest_posts = site.posts | slice: 0, 5 %}
+      {%- for post in latest_posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -22,7 +44,7 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {{ post.excerpt | strip_html | truncate: 100 }}
         {%- endif -%}
       </li>
       {%- endfor -%}
