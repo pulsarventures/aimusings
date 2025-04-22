@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Polls"
+permalink: /polls/
+---
+
+<h1>Polls</h1>
+<ul>
+  {% for poll in site.polls %}
+  <li>
+    <a href="{{ poll.url | relative_url }}">{{ poll.title }}</a>
+    <p>{{ poll.excerpt | strip_html | truncate: 100 }}</p>
+  </li>
+  {% endfor %}
+</ul>

@@ -152,3 +152,8 @@ disqus:
   shortname: "amusing-space"
 
 google_analytics: "GTM-NK7NFV5H"
+
+collections:
+  polls:
+    output: true
+    permalink: /:collection/:path
