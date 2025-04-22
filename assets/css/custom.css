@@ -36,11 +36,11 @@
 }
 
 .home {
-  background-image: url('/assets/img/notepad3-handdrawn.jpg');
+  background-image: url('/assets/img/notepad4-super-plain.jpg');
   background-size: auto;
-  background-position: unset;
-  /*background-repeat: no-repeat;
-  width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  /*width: 100vw;
   height: 100vh;
   margin: 0;*/
   padding: 5px;
