@@ -35,13 +35,21 @@
   text-decoration: none;
 }
 
-.home {
+.site-header {
   background-image: url('/assets/img/notepad.png');
   background-size: auto;
-  background-position: unset;
-  /*background-repeat: no-repeat;
-  width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+}
+
+.home {
+  background-image: url('/assets/img/notepad5-two.jpg');
+  background-size: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  /*width: 100vw;
   height: 100vh;
-  margin: 0;*/
-  padding: 5px;
+  margin: 0;
+  padding: 5px;*/
 }
