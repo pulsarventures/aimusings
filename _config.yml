@@ -156,4 +156,4 @@ google_analytics: "GTM-NK7NFV5H"
 collections:
   polls:
     output: true
-    permalink: /polls/:title/
+    permalink: /:collection/:path
