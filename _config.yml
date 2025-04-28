@@ -158,3 +158,6 @@ collections:
   polls:
     output: true
     permalink: /:collection/:path
+  other:
+    output: true
+    permalink: /:collection/:path

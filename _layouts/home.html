@@ -50,6 +50,27 @@ layout: default
       {%- endfor -%}
     </ul>
 
+    <hr class="divider" />
+
+    {%- if site.other.size > 0 -%}
+      <h2 class="post-list-heading">Other</h2>
+      <ul class="post-list">
+        {% assign latest_other = site.other | slice: 0, 3 %}
+        {% for oth in latest_other %}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ oth.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ oth.url | relative_url }}">{{ oth.title | escape }}</a>
+          </h3>
+          {%- if site.show_excerpts -%}
+            {{ oth.excerpt | strip_html | truncate: 100 }}
+          {%- endif -%}
+        </li>
+        {% endfor %}
+      </ul>
+    {%- endif -%}
+
     <!--p class="feed-subscribe"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p-->
   {%- endif -%}
 

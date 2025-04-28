@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Other"
+permalink: /other/
+---
+
+<h1>Other</h1>
+<ul>
+  {% for oth in site.other %}
+  <li>
+    <a href="{{ oth.url | relative_url }}">{{ oth.title }}</a>
+    <p>{{ oth.excerpt | strip_html | truncate: 100 }}</p>
+  </li>
+  {% endfor %}
+</ul>
