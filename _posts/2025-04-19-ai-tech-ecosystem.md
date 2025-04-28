@@ -4,7 +4,7 @@ title: "AI Tech Ecosystem"
 date: 2025-04-19 12:00:00 -0500
 categories: musings
 ---
-The AI landscape is shifting from modular stacks to vertically integrated ecosystems like Google’s, which combine tools, workflows, and infrastructure for building intelligent agents. These ecosystems promise speed, clarity, and scalability but reduce portability. Drawing parallels to early cloud computing, we need to think when to commit to a provider, considering time-to-market, platform risk, and agent maturity.
+Agentic AI is shifting from modular tools to full ecosystems like Google’s Agentspace, pushing developers to choose platforms, not just models. The big question now is when — and how — to go all-in on an ecosystem.
 
 **Are we heading toward the “AWS moment” for Agentic AI?**
 

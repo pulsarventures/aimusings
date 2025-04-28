@@ -5,7 +5,7 @@ date: 2025-04-13 12:00:00 -0500
 categories: musings update
 ---
 
-When building product ideas, my workflow moves from sketches to mind maps, then to “vibe writing” specs with ChatGPT and “vibe coding” with Claude and Cursor. I realized I’m missing a “vibe design” step — a way to quickly sketch and refine UX/UI ideas before diving into code. I’m looking for a tool, like a Copilot for design, that helps create early prototypes without breaking my creative flow.
+When building product ideas, I move from sketches and mind maps to “vibe writing” specs with ChatGPT and then “vibe coding” with Claude and Cursor, but I’ve realized I’m missing a “vibe design” step in between. I’m looking for a tool that feels like a Copilot for UX/UI — something that helps me quickly sketch and refine prototypes without jumping straight into code.
 
 
 When I’m building out a product idea, my workflow usually looks like this:
