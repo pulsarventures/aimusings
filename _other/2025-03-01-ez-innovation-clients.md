@@ -4,7 +4,7 @@ title: "EZ Innovation Clients"
 date: 2025-03-01 12:00:00 -0500
 categories: musings update ez-innovation
 ---
-Prasad Vangavolu and I, along with the EZ Innovation Team, have had the privilege of working with several exciting startups in Metro Atlanta. Wanted to take a moment to highlight a few:
+Prasad Vangavolu and I, along with the EZ Innovation Team, have had the privilege of working with several exciting startups in Metro Atlanta. Wanted to take a moment to highlight a few as of Mar 2025
 
 - **Believ** – *Sanjay Ahuja*, *Amyn Sadruddin*, and the team are building a fully automated and compliant onboarding platform powered by Conversational AI. Their solution streamlines verification and real-time data intelligence, making onboarding faster, seamless, and compliant.
 - **Exitous, Inc.** – Founded by *Keita Wangari*, a human-centered platform designed to support individuals navigating job transitions. Excited to see her accepted into **#Techstars** and preparing for a private beta launch soon! (Ok - I lied - she's based in CA.)
@@ -19,4 +19,3 @@ Through these collaborations, we’ve built two-sided marketplaces, leveraged AI
 
 A big thank you to our partners at **Tech Alpharetta**, **Atlanta Tech Village**, **ATDC**, and **The Entrepreneurial Hour** for fostering innovation and entrepreneurship in our community! *Karen Cashion*, *Jade Rodgers*, *Ania Lackey*, *Charles (Chuck) Kaucher*, *John Avery*, *Avoilan Bingham*, *Kristin Slink*.
 
-cc : [Kyle Painting](https://www.linkedin.com/in/kylepainting?trk=public_post-text), [EZ Innovation](https://www.linkedin.com/company/ezinnovation?trk=public_post-text)

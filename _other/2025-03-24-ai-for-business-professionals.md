@@ -36,6 +36,3 @@ Last night, I attended Neha Negandhi’s “Storytelling for Founders” session
 
 The demand is there. The feedback was honest and energizing — I better get to work! Thank you to all who attended!
 
-Results from the survey are attached — credits to [Henrik Kniberg](https://www.linkedin.com/in/hkniberg) for some of the visuals and [Madhavan S.](https://www.linkedin.com/in/sridharanmadhavan) for helping to build content. Gratitude to my wife, [Kiran Chahar](https://www.linkedin.com/in/kiran-chahar), for listening to all the passionate and painful conversations and for her support!
-
-Feel free to take the survey here: [Survey Link](https://lnkd.in/ev47wHRT)

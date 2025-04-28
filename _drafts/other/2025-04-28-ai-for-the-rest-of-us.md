@@ -56,3 +56,12 @@ More to come soon.
   
 
 If you’re interested in joining either track, drop a comment or DM me — would love to hear from you!
+
+
+
+![1](https://media.licdn.com/dms/image/v2/D4E22AQEPDPU8E0gUOg/feedshare-shrink_800/B4EZZ8s8c3HYAg-/0/1745848879355?e=1748476800&v=beta&t=kvDbm34DxwBlIKNN1hIhsnyw8sN3o4yOT4PGQgRQs9c)
+
+![2](https://media.licdn.com/dms/image/v2/D4E22AQEYPfj65eRGfA/feedshare-shrink_800/B4EZZ8s8chHQAk-/0/1745848879451?e=1748476800&v=beta&t=jS80y5x_PeZ5eZCR_YUFq5ZyVYme_-oIQS7MDI2-vkE)
+
+![3](https://media.licdn.com/dms/image/v2/D4E22AQFs98RiC5vDzA/feedshare-shrink_800/B4EZZ8s8ckHcAo-/0/1745848879362?e=1748476800&v=beta&t=mpiCmTrf7S6VkOI2vpD9QGICFLp6oqthkv0ox6TdJ-k)
+
