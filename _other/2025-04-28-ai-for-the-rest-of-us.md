@@ -4,8 +4,8 @@ title: "AI for Business Professionals"
 date: 2025-03-24 12:00:00 -0500
 categories: musings update
 ---
-  
-Last week, we hosted our second session in the series 𝐀𝐈 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐑𝐞𝐬𝐭 𝐨𝐟 𝐔𝐬
+
+Last week, we hosted our second AI for the Rest of Us session, focused on how learning about AI together in a community makes navigating rapid change more manageable. Based on the energy and feedback, we’re now evolving into two tracks — AI for Technologists and AI for Business Owners — to better serve different needs and interests.
 
   
 
