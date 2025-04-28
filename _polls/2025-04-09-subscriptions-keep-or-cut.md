@@ -9,8 +9,6 @@ Many of us are juggling multiple subscriptions—whether it’s for new age prod
 
 Imagine you can only spend $20 and if you had to choose just one to keep, which one makes the cut —- and why?
 
-I'll post my answer as the poll closes - but I am super clear on what my pick is and why? Curious to hear what others think…
-
 <form action="/submit_poll" method="POST">
   <label>
     <input type="radio" name="subscription" value="ChatGPT"> ChatGPT
@@ -30,4 +28,3 @@ I'll post my answer as the poll closes - but I am super clear on what my pick is
   <!--button type="submit">Submit</button-->
 </form>
 
-Check back soon for more updates!
