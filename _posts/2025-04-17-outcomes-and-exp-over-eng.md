@@ -4,9 +4,7 @@ title: "Outcomes and experiences over engineering"
 date: 2025-04-17 12:00:00 -0500
 categories: musings update
 ---
-Focus on AI's impact and user experience, not its mechanics, emphasizing seamless integration and empowering outcomes over technical details.
-
-We need to reframe the conversation around AI.
+We need to focus on AI's impact and user experience, not its mechanics, emphasizing seamless integration and empowering outcomes over technical details.
 
 Too often, the spotlight is on the agent itself:
 
@@ -29,8 +27,6 @@ Stories of legendary models, the elegance of engineering, and the feeling of sit
 No one was obsessing over which robot bolted the frame.  
 They were talking about how it drives.
 
----
-
 We need the same shift in how we think about AI Agents.
 
 - **AI Agents are not the product.**
@@ -50,7 +46,6 @@ The quiet force under the hood that:
 It’s not about showcasing every prompt, parameter, or pipeline.  
 It’s about what got done, what moved, what changed.
 
----
 
 ### So how do we build toward that?
 
@@ -63,8 +58,6 @@ We shouldn’t force users to interact with “the AI.”
 We should give them a product that just feels right — that makes progress feel effortless.
 
 Just like a great car leaves you feeling, “that felt amazing.”
-
----
 
 The mindset shift is simple, but essential:  
 
