@@ -7,11 +7,8 @@ categories: musings update
 
 We used to ask: “Who can help me get this done?”
 Now, in the Intelligent Age, the better question is:
-Which Agent can do this for me?”
+Which Agent can do this for me?”. This shift isn’t subtle — it’s a complete rethinking of leverage.
 
-This shift isn’t subtle — it’s a complete rethinking of leverage.
-
----
 
 **In the Industrial Age**, leverage was physical.
 
@@ -23,7 +20,6 @@ The book _Who Not How_ gave us a powerful mindset: delegate to others, don’t d
 
 But what if your next “Who” isn’t a person at all?
 
----
 
 **Enter the Agent Era.**
 
@@ -50,7 +46,6 @@ This changes everything:
     Imagine your own intelligent stack of legal Agents, research Agents, proposal-writing Agents…  
     The new power network is hybrid: human and machine.
 
----
 
 **So what does this mean for builders, operators, founders?**
 
@@ -62,7 +57,6 @@ It’s about **delegating better to smarter systems**.
 
 **Agentic leverage is the new compounding edge.**
 
----
 
 **The question isn’t “How do I do this?” anymore.**  
 It’s:  
