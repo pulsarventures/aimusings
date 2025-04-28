@@ -27,6 +27,4 @@ As AI agents increasingly enter the workforce, the dynamics of these organizatio
 2. How might Leadership Principles, Culture, and Organizational Values need to evolve as AI integration becomes deeper?
 3. How do you map out what processes to assist and automate, and what non-deterministic scenarios to augment?
 
-I'd love to hear your insights - cc [Usman Sheikh](https://ae.linkedin.com/in/usmans) [Palak Shah](https://www.linkedin.com/in/palakrshah)
-
 *PS: These thoughts are outcomes of my reading, conversations, observations, and reflections, along with some enjoyable conversations with various LLMs—why not?*

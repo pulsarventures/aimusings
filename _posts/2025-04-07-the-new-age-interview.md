@@ -13,8 +13,6 @@ I've been through my fair share of interviews, but two stand out:
 1. **The Amazon Loop** for a Solutions Architect role in 2022  
 2. **A Fractional CTO Interview** just last week  
 
----
-
 ### The Amazon Loop: Reflection, Preparation, Execution
 
 The Amazon process was rigorous, structured, and deeply introspective. Here’s what it looked like:

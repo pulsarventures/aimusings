@@ -4,9 +4,7 @@ title: "AI Mindset"
 date: 2025-02-28 12:00:00 -0500
 categories: musings update
 ---
-If Mindset is Everything, here’s what’s been shifting mine...
-
-Lately, I’ve been consuming a mix of thought-provoking ideas that are reshaping how I think about AI, intelligence, and work. No particular order—just perspectives that have made me pause and rethink:
+If Mindset is Everything, here’s what’s been shifting mine. Lately, I’ve been consuming a mix of thought-provoking ideas that are reshaping how I think about AI, intelligence, and work. No particular order—just perspectives that have made me pause and rethink:
 
 ### Key Influences & Ideas
 - **Sam Altman** - [Intelligence Age – The Age of Intelligence](https://ia.samaltman.com/)

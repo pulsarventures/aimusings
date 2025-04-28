@@ -5,6 +5,9 @@ date: 2025-04-13 12:00:00 -0500
 categories: musings update
 ---
 
+When building product ideas, my workflow moves from sketches to mind maps, then to “vibe writing” specs with ChatGPT and “vibe coding” with Claude and Cursor. I realized I’m missing a “vibe design” step — a way to quickly sketch and refine UX/UI ideas before diving into code. I’m looking for a tool, like a Copilot for design, that helps create early prototypes without breaking my creative flow.
+
+
 When I’m building out a product idea, my workflow usually looks like this:
 
 1. I start with pen and paper – sketching out ideas helps me think.
@@ -27,7 +30,5 @@ What are product designers using these days for that early-stage **“vibe desig
 2. **Replit and Loveable**: Tried these too, but as a programmer, I prefer the control I get with Cursor. Also, they’re more about "building" apps, not designing them.
 
 I’m looking for something more like a **Copilot** — like ChatGPT or Cursor, but for **UX/UI prototyping**. Something that helps me quickly sketch, refine, and maybe even generate clickable prototypes before diving into code — for myself, for sharing with other developers, or for sharing with prospects.
-
-Would love to hear what others are using. Please vote [here](https://www.linkedin.com/feed/update/urn:li:activity:7317187987115552769/)!
 
 #AIMusings #VibeCode #VibeWrite #VibeDesign

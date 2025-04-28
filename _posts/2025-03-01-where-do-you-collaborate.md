@@ -18,4 +18,3 @@ a) Find other builders who share your interests?
 b) Engage in real conversations to teach, learn, and collaborate?
 
 
-Would love to hear your thoughts! 👇

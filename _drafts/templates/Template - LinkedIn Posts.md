@@ -27,9 +27,10 @@ I am building a writing system called **AI Musings** for LinkedIn, where I share
 1. **LinkedIn Post (~2,500–3,000 characters)**  
 
    - Structure:
+     - **Summary** a clear 1-3 lines, 1 sentence summary paragraph of the entire post content less than 25 words. Don't start with "This post explains....".Don't always start with "Explores"; just mix it up. Don't include any heading or formatting for this summary section. Just keep it normal text.
      - **Catchy Opening Hook** - bold thesis, question, or observation
      - **Narrative/Breakdown** 
-	     -  can be a blend of story + insight + stat blocks
+	     - can be a blend of story + insight + stat blocks
 	     - includes a **setup + breakdown + forward insight**
      - **Conclusion** – actionable takeaway or thought-provoking closer
      - Clearly demarcated **"then vs now"** or **"problem vs opportunity"**
@@ -71,6 +72,7 @@ I am building a writing system called **AI Musings** for LinkedIn, where I share
 - Preserve natural rhythm in writing, as seen in updated references
 - Main insights in bullet-style or mini-paragraphs
 - Use -> to move through ideas
+- Do not use ___ as section breaks
 - Do not use any icons
 - Use Bold Text for key highlights
 
