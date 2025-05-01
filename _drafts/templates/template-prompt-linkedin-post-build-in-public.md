@@ -1,7 +1,7 @@
 
 ## 🔹 Lead Prompt
 
-# 🧠 AI Musings – Prompt Template
+# 🧠 AI Musings – Prompt Template v1
 
 I am building a writing system called **AI Musings** for LinkedIn, where I share 5 posts per week with the goal of eventually publishing a book and video content. I will provide an “Idea in Brief” for each post. Your job is to act as a **Top Voice ghostwriter** and help me turn that into a fully-formed post.
 
