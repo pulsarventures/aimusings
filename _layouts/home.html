@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.polls.size > 0 -%}
-    <h2 class="post-list-heading">Latest Polls</h2>
+    <h2 class="post-list-heading">Latest <a href="{{ site.baseurl }}/polls">Polls</a></h2>
     <ul class="post-list">
       {% assign latest_polls = site.polls | slice: 0, 3 %}
       {% for poll in latest_polls %}
@@ -31,7 +31,7 @@ layout: default
   <hr class="divider" />
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Latest Posts" }}</h2>
+    <h2 class="post-list-heading">Latest <a href="{{ site.baseurl }}/posts">Posts</a></h2>
     <ul class="post-list">
       {% assign latest_posts = site.posts | slice: 0, 3 %}
       {%- for post in latest_posts -%}
@@ -53,7 +53,7 @@ layout: default
     <hr class="divider" />
 
     {%- if site.other.size > 0 -%}
-      <h2 class="post-list-heading">Other</h2>
+      <h2 class="post-list-heading"><a href="{{ site.baseurl }}/other">Other</a></h2>
       <ul class="post-list">
         {% assign latest_other = site.other | slice: 0, 3 %}
         {% for oth in latest_other %}
