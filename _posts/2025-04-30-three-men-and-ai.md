@@ -5,6 +5,8 @@ date: 2025-04-29 12:00:00 -0500
 categories: musings
 ---
 
+Building a B2C app isn’t just about vibe coding your way to a product—it takes clarity, structure, and the right leverage. With just three core builders, we’ve used AI as a co-pilot across roles—from product vision to backend architecture—turning vague ideas into executable momentum. It’s not about replacing thinking, but expanding capability through AI-augmented strategy and agent-powered execution.
+
 “I’ll just vibe code the whole thing.”
 
 That’s the fantasy.

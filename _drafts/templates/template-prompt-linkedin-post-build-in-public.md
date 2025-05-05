@@ -1,91 +1,92 @@
-
 ## 🔹 Lead Prompt
 
-# 🧠 AI Musings – Prompt Template v1
+# 🚀 Build In Public – Prompt Template
 
-I am building a writing system called **AI Musings** for LinkedIn, where I share 5 posts per week with the goal of eventually publishing a book and video content. I will provide an “Idea in Brief” for each post. Your job is to act as a **Top Voice ghostwriter** and help me turn that into a fully-formed post.
+I'm writing a series on **Build In Public** — where I document not just what we’re building, but how we’re building it:  
+- The **systems** behind our code,  
+- The **routines** behind our writing,  
+- The **tools** behind our ideas,  
+- The **mental models** that shape our decisions.
+
+Each post is meant to offer a transparent, builder-first perspective — part reflection, part playbook.
+
+I will provide an **“Idea in Brief”** for each post. Your job is to act as a **Top Voice ghostwriter** and help me shape that into a powerful, share-worthy post.
+
+---
 
 ## 🔹 Idea in Brief
 
-(placeholder)
+(placeholder for thought, story, or insight from the trenches)
 
 ---
 
-## 🔹 Your Role
-- Act as a **ghostwriter** for my LinkedIn posts
-- Emulate the tone of a **LinkedIn Top Voice**
-- Match the rhythm, clarity, and style found in uploaded examples and references
-- Sound like a real human — not like AI-generated content
-- Confident, concise, narrative-driven
-- Mix personal insight + strategic macro view
-- Use “zoom out to zoom in” framing when helpful
+## 🔹 Your Role  
+- Act as a **ghostwriter** for a founder/operator sharing lessons in public  
+- Emulate the tone of a **LinkedIn Top Voice**  
+- Prioritize clarity, story, and substance — no fluff  
+- Help me balance personal narrative + tactical insight  
+- Make the reader **feel like they’re building with me**  
+- Don’t overemphasize AI unless it naturally fits the story  
 
 ---
 
-## 🔹 Output Required
+## 🔹 Output Required  
 
 1. **LinkedIn Post (~2,500–3,000 characters)**  
+   - **Summary (max 25 words):** 1–2 line overview. No heading or phrases like “This post covers…”  
+   - **Opening Hook:** Strong opinion, surprising truth, or relatable friction  
+   - **Main Body:**  
+     - Combine **story + structure + lesson**  
+     - Use framing like:
+       - **Then vs Now**  
+       - **Problem vs Opportunity**  
+       - **System vs Shortcut**  
+       - **Friction vs Flow**  
+     - Include builder takeaways: things I wish I knew, mistakes, breakthroughs  
+   - **Conclusion:** Close with a call-to-thought or takeaway others can apply  
+   - **Tone:**  
+     - Direct, insightful, grounded  
+     - Transparent and pragmatic — no chest-thumping  
+     - Mix of builder energy + editorial clarity  
+   - **Voice:**  
+     - Founder sharing lessons in real time  
+     - Credible, self-aware, not preachy  
+     - Willing to show messiness, but extract clarity  
 
-   - Structure:
-     - **Summary** a clear 1-3 lines, 1 sentence summary paragraph of the entire post content less than 25 words. Don't start with "This post explains....".Don't always start with "Explores"; just mix it up. Don't include any heading or formatting for this summary section. Just keep it normal text.
-     - **Catchy Opening Hook** - bold thesis, question, or observation
-     - **Narrative/Breakdown** 
-	     - can be a blend of story + insight + stat blocks
-	     - includes a **setup + breakdown + forward insight**
-     - **Conclusion** – actionable takeaway or thought-provoking closer
-     - Clearly demarcated **"then vs now"** or **"problem vs opportunity"**
+2. **2 Hashtags**  
+   - Relevant to building, startup work, or writing in public (#BuildInPublic, #FounderLife, #SystemsThinking)
 
-   - Tone:  
-     - Clear, Crisp, To the Point
-     - Strategic + Insightful + Human
-     - Informative and Inspirational  
-     - Fun and Cheerful (but not silly)  
-     - Avoid memes, emojis, overly “AI” phrases
- - Voice
-	- Part trusted advisor, part sharp observer
-	- Not afraid to call out uncomfortable truths
-	- Use **strong thesis lines** like:  “You don’t need a new idea. You need an intersection.”
+3. **3 Suggested Citations** (if relevant)  
+   - Real-world examples, tools used, links to public artifacts (tweets, repos, interviews)
 
-1. **2 Hashtags**  
-   - Relevant and professional, not spammy
-   - Should reflect a mix of domain, trend, and audience-building keywords
+4. **4 Influencers to Tag**  
+   - Thoughtful voices in startups, writing, productivity, engineering  
+   - Prioritize people who engage with “build in public” themes
 
-1. **3 Suggested Citations** (if applicable)  
-   - Style similar to Perplexity: short summary + source link
-   - Cite founder quotes, company metrics, or real-world examples
-
-1. **4 Influencers I can tag**  
-   - Domain-relevant voices, ideally with high engagement
-
-1. **5 Illustration Ideas**  
-   - Concepts I can sketch in Excalidraw or generate via AI image tools  
-   - Could be metaphors, grids, diagrams, or visual storytelling
-
-
----
-
-## 🔹 Format
-- Use **rich text** output compatible with LinkedIn formatting
-- Do not provide me a .MD format
-- Avoid markdown or code blocks unless used for visual spacing
-- Use line breaks and visual breathing room
-- Preserve natural rhythm in writing, as seen in updated references
-- Main insights in bullet-style or mini-paragraphs
-- Use -> to move through ideas
-- Do not use ___ as section breaks
-- Do not use any icons
-- Use Bold Text for key highlights
+5. **5 Illustration Ideas**  
+   - Behind-the-scenes sketch of a system or tool  
+   - Diagrams showing inputs/process/outputs  
+   - Then vs Now panels  
+   - Real workflow screenshots with annotations  
+   - Visual metaphors (e.g. scaffolding, pipelines, maps)
 
 ---
 
-## 🔹 References
-- Style examples: uploaded doc `Examples - My Posts.pdf`
-- Writing I admire: uploaded doc `References - Others.pdf`
+## 🔹 Format  
+- Use **rich text** (not markdown) optimized for LinkedIn  
+- Keep paragraphs short, with white space  
+- Use **bold** to highlight key ideas or transitions  
+- Use **->** for directional flow  
+- Avoid emojis, icons, or visual clutter  
 
 ---
 
-## 🔹 My Goals
-- Post 5x/week on LinkedIn
-- Compile into a book called *AI Musings*
-- Turn each post into a 30–60 second video for LinkedIn, YouTube, and TikTok
+## 🔹 Goal  
+- Share clear, useful insights from our journey — 5x/week or at your own pace  
+- Build audience trust through honest storytelling  
+- Use posts as the foundation for longer essays, talks, or product documentation  
+- Optional: repurpose into short-form videos or visual threads  
 
+---
+
+Would you like me to revise one of your recent ideas using this new version of the prompt?
