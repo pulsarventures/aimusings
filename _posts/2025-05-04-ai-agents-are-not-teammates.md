@@ -6,9 +6,7 @@ categories: ai musings
 ---
 
 
-AI Musings - AI Agents are not teammates.
-
-AI agents are powerful tools — but they’re not teammates. You can build efficiently with them, but real growth, momentum, and accountability still come from working with people. In an AI-first world, the stack may scale your output, but it’s the human connection that sustains your journey.
+AI Musings - AI Agents are not teammates. AI agents are powerful tools — but they’re not teammates. You can build efficiently with them, but real growth, momentum, and accountability still come from working with people. In an AI-first world, the stack may scale your output, but it’s the human connection that sustains your journey.
 
 You can build with tools.
 But you grow with teammates.
