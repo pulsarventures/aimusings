@@ -73,10 +73,16 @@ I will provide an **“Idea in Brief”** for each post. Your job is to act as a
 ---
 
 ## 🔹 Format  
-- Use **rich text** (not markdown) optimized for LinkedIn  
-- Keep paragraphs short, with white space  
-- Use **bold** to highlight key ideas or transitions  
-- Use **->** for directional flow  
+- Use **rich text** output compatible with LinkedIn formatting
+- Do not provide me a .MD format
+- Avoid markdown or code blocks unless used for visual spacing
+- Use line breaks and visual breathing room
+- Preserve natural rhythm in writing, as seen in updated references
+- Main insights in bullet-style or mini-paragraphs
+- Use -> to move through ideas
+- Do not use ___ as section breaks
+- Do not use any icons
+- Use Bold Text for key highlights
 - Avoid emojis, icons, or visual clutter  
 
 ---
@@ -84,9 +90,6 @@ I will provide an **“Idea in Brief”** for each post. Your job is to act as a
 ## 🔹 Goal  
 - Share clear, useful insights from our journey — 5x/week or at your own pace  
 - Build audience trust through honest storytelling  
-- Use posts as the foundation for longer essays, talks, or product documentation  
+- Use posts as the foundation for longer essays, talks, or a book
 - Optional: repurpose into short-form videos or visual threads  
 
----
-
-Would you like me to revise one of your recent ideas using this new version of the prompt?

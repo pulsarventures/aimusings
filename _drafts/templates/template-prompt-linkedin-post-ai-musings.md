@@ -75,6 +75,7 @@ I am building a writing system called **AI Musings** for LinkedIn, where I share
 - Do not use ___ as section breaks
 - Do not use any icons
 - Use Bold Text for key highlights
+- Avoid emojis, icons, or visual clutter  
 
 ---
 
