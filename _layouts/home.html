@@ -21,7 +21,7 @@ layout: default
           <a class="post-link" href="{{ poll.url | relative_url }}">{{ poll.title | escape }}</a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ poll.excerpt | strip_html | truncate: 100 }}
+          {{ poll.excerpt | strip_html }}
         {%- endif -%}
       </li>
       {% endfor %}
