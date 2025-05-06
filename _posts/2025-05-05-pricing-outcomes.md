@@ -5,9 +5,7 @@ date: 2025-05-05 12:00:00 -0500
 categories: ai musings
 ---
 
-AI Musings - Pricing Dilemma
-
-AI has made it cheaper than ever to build, but expensive to run — exposing a gap between how value is delivered and how it’s priced. While outcome-based pricing is becoming the ideal, most still default to time or feature-based models because true impact is hard to quantify. The real challenge is figuring out how to price cognitive leverage — not just effort. This post explores that tension and invites others to share how they’re navigating pricing in an AI-driven world.
+AI Musings - Pricing Dilemma. AI has made it cheaper than ever to build, but expensive to run — exposing a gap between how value is delivered and how it’s priced. While outcome-based pricing is becoming the ideal, most still default to time or feature-based models because true impact is hard to quantify. The real challenge is figuring out how to price cognitive leverage — not just effort. This post explores that tension and invites others to share how they’re navigating pricing in an AI-driven world.
 
 We Know How to Build AI — But Not How to Price It, just yet.
 
