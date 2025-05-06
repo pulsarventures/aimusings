@@ -13,9 +13,6 @@ But you grow with teammates.
 
 We need to stop confusing AI agents with actual collaborators.
 
-They’re not teammates.
-They’re tools.
-
 And the sooner we stop pretending they are our co-workers, the clearer our thinking gets.
 
 
