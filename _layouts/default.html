@@ -4,6 +4,8 @@
   {% include head.html %}
 
   <body>
+    <script src="https://cdn.jsdelivr.net/gh/logspace-ai/langflow-embedded-chat@v1.0.7/dist/build/static/js/bundle.min.js">
+    </script>
     <header class="site-header" role="banner">
       <div class="wrapper">
         {% assign default_paths = site.pages | map: "path" %}
@@ -37,6 +39,14 @@
           </div>
         </nav>
         {% endif %}
+        <langflow-chat
+          window_title="Chat with our content!"
+          flow_id="254b2726-5160-406e-89be-7945c3e6fb4c"
+          host_url="https://weekly-known-moray.ngrok-free.app"
+          placeholder="What is this space all about?"
+          online_message="Powered by Langflow"
+          width="425" height="450">
+        </langflow-chat>
       </div>
     </header>
 
@@ -108,14 +118,5 @@
       </div>
     </footer>
     <script id="dsq-count-scr" src="//amusing-space.disqus.com/count.js" async></script>
-    <script src="https://cdn.jsdelivr.net/gh/logspace-ai/langflow-embedded-chat@v1.0.7/dist/build/static/js/bundle.min.js">
-    </script>
-    <langflow-chat
-      window_title="Chat with our content!"
-      flow_id="254b2726-5160-406e-89be-7945c3e6fb4c"
-      host_url="https://weekly-known-moray.ngrok-free.app"
-      placeholder="What is this space all about?"
-      online_message="Powered by Langflow">
-    </langflow-chat>
   </body>
 </html>
