@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cognitive Leverage and Judgement"
-date: 2025-04-29 12:00:00 -0500
+date: 2025-05-06 12:00:00 -0500
 categories: ai musings
 ---
 
