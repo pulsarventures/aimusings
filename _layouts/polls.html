@@ -6,7 +6,9 @@ permalink: /polls/
 
 <h1>Polls</h1>
 <ul>
-  {% for poll in site.polls %}
+  {% assign sorted_polls = site.polls | sort: "date" %}
+  {% assign sorted_polls = sorted_polls | reverse %}
+  {% for poll in sorted_polls %}
   <li>
     <a href="{{ poll.url | relative_url }}">{{ poll.title }}</a>
     <p>{{ poll.excerpt | strip_html | truncate: 100 }}</p>

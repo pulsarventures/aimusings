@@ -6,7 +6,9 @@ permalink: /other/
 
 <h1>Other</h1>
 <ul>
-  {% for oth in site.other %}
+  {% assign sorted_others = site.other | sort: "date" %}
+  {% assign sorted_others = sorted_others | reverse %}
+  {% for oth in sorted_others %}
   <li>
     <a href="{{ oth.url | relative_url }}">{{ oth.title }}</a>
     <p>{{ oth.excerpt | strip_html | truncate: 100 }}</p>

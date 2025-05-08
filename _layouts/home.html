@@ -12,7 +12,7 @@ layout: default
   {%- if site.polls.size > 0 -%}
     <h2 class="post-list-heading">Latest <a href="{{ site.baseurl }}/polls">Polls</a></h2>
     <ul class="post-list">
-      {% assign latest_polls = site.polls | slice: 0, 3 %}
+      {% assign latest_polls = site.polls | sort: "date" | reverse | slice: 0, 3 %}
       {% for poll in latest_polls %}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -55,7 +55,7 @@ layout: default
     {%- if site.other.size > 0 -%}
       <h2 class="post-list-heading"><a href="{{ site.baseurl }}/other">Other</a></h2>
       <ul class="post-list">
-        {% assign latest_other = site.other | slice: 0, 3 %}
+        {% assign latest_other = site.other | sort: "date" | reverse | slice: 0, 3 %}
         {% for oth in latest_other %}
         <li>
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
