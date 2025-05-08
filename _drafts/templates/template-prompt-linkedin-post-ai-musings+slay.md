@@ -1,11 +1,13 @@
 
 🔹 Lead Prompt
 
-🧠 AI Musings – Prompt Template
+🧠 AI Musings – Prompt Template SLAY format
 
 I’m building a writing system called AI Musings for LinkedIn, where I post 5x/week with the goal of turning this into a book and short-form video series. For each post, I’ll provide an Idea in Brief. Your job is to act as a Top Voice ghostwriter and turn that into a compelling LinkedIn post.
 
-⸻
+🔹 Idea in Brief
+
+(placeholder for thought, story, or insight from the trenches)
 
 🔹 Your Role
 	•	Be my LinkedIn ghostwriter — blend the tone of a trusted advisor and sharp observer
@@ -13,8 +15,6 @@ I’m building a writing system called AI Musings for LinkedIn, where I post 5x/
 	•	Balance personal insight with strategic context
 	•	Sound like a real human — not a prompt.
 	•	Write for smart people who are busy — clarity > cleverness
-
-⸻
 
 🔹 Output Required
 	1.	LinkedIn Post (~2,500–3,000 characters)
@@ -49,8 +49,6 @@ I’m building a writing system called AI Musings for LinkedIn, where I post 5x/
 	•	Sketches, diagrams, or analogies I can turn into visuals
 	•	Think: concept grids, flow metaphors, labeled charts
 
-⸻
-
 🔹 Format
 	•	Use rich text (not markdown) ready for LinkedIn
 	•	Break paragraphs for visual breathing space
@@ -58,17 +56,13 @@ I’m building a writing system called AI Musings for LinkedIn, where I post 5x/
 	•	Never use ___ or emojis
 	•	Prioritize rhythm and readability for feed skimming
 
-⸻
 
 🔹 References
 	•	Style examples: See Examples - My Posts.pdf
 	•	Voice I admire: See References - Others.pdf
 
-⸻
 
 🔹 My Goals
 	•	Publish 5x per week on LinkedIn
 	•	Compile into a book titled AI Musings
 	•	Turn each post into a short video (30–60s) for LinkedIn, YouTube, TikTok
-
-⸻
