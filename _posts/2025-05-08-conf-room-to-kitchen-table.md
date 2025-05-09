@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "AI Conversaions from Conference Rooms to Kitchen Tables"
+title: "AI Conversations - Conference Rooms to Kitchen Tables"
 date: 2025-05-08 12:00:00 -0500
 categories: ai musings
 ---
-
-AI Musings – Conference Rooms to Kitchen Tables
 
 AI is no longer just a conference room conference call — it’s becoming deeply personal. Last night Pooja Rastogi a Sr. Project Manager came over, not to chat casually, but to explore how she could bring AI into her workplace. Over tea, we went from tool choices to transformation arcs, showing that the most powerful AI adoption while may get started in a corporate setting is often amplified through trusted, everyday conversations 
 
