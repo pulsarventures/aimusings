@@ -2,6 +2,8 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {% include head.html %}
+  <link rel="stylesheet" href="{{ '/assets/css/chat-widget.css' | relative_url }}">
+  <script src="{{ '/assets/js/chat-widget/chat-widget.js' | relative_url }}" defer></script>
 
   <body>
     <script src="https://cdn.jsdelivr.net/gh/logspace-ai/langflow-embedded-chat@v1.0.7/dist/build/static/js/bundle.min.js">
