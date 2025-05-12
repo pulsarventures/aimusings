@@ -2,7 +2,8 @@ class ChatWidget {
     constructor() {
         this.chatId = null;
         this.isOpen = false;
-        this.apiBaseUrl = 'https://d5e7-2409-40f2-315c-1474-a8a7-5268-4cf5-1eda.ngrok-free.app';
+        //Custom Chatbot
+        this.apiBaseUrl = 'https://6842-50-146-57-106.ngrok-free.app';
         this.init();
     }
 
