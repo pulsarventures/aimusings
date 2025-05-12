@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Model Context Protocol (MCP)"
+title:  "Model Context Protocol"
 date:   2025-02-25 12:00:00 -0500
 categories: musings update
 ---
