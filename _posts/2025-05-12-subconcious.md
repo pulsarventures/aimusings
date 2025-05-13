@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Founders and the Subconcious"
-date: 2025-04-29 12:00:00 -0500
+title: "Founders and Subconscious Branding"
+date: 2025-05-13 12:00:00 -0500
 categories: ai musings
 ---
 
 
+Our product choices aren’t purely logical—they’re shaped by subconscious signals like founder visibility, storytelling, and personal moments that build trust. Tools like ChatGPT, Perplexity, and Grok became my defaults not just for their features, but because their founders live rent-free in my head through podcasts, interviews, and media presence. In the AI era, founder-led storytelling isn’t vanity—it’s the new moat.
+
+
 The invisible signals that drive our tech choices aren’t always logical—they’re deeply personal, often shaped by subconscious impressions.
 
-Why I use ChatGPT, Perplexity, and Grok isn’t just about features. It’s about founders, stories, and moments that stuck in my head.
+One of my recent realizations around Why I use ChatGPT, Perplexity, and Grok isn’t just about features. It’s about founders, stories, and moments that stuck in my head.
 
 We like to believe we make product choices rationally.
 But if I reflect honestly—many of my daily tools were chosen as much by my subconscious as by conscious utility.
@@ -46,11 +49,10 @@ Subconscious Signals:
 → Elon’s tweets on X.
 
 And the Others?
-→ Sure I am a GSuite power user. But no face and no voice except Sundar Pichai translates to no pull to Gemini.
+→ Sure I am a GSuite power user. But no face and no voice except Sundar Pichai - I hear mostly Alphabet not Gemini
 → Microsoft? Watching Satya Nadella talk about Copilot doesn't cut it and doesn't sound much different than when he used to talk about Azure.
-→ Claude - I primarily use it for Coding related tasks wonder if the fact that Dario is not enough to been in the media is a reason
-→ Siri, Alexa, Google Home? They feel like dumb utilities, not AI advisors (need to strip the Smart from them)
-
+→ Claude - I primarily use it for Coding related tasks and is not my got to - wonder if the fact that Dario is not enough to been in the media is a reason
+→ Siri, Alexa, Google Home? Well they feel extremely basic gadgets now, not AI advisors (need to strip the "smart from them)
 
 Moral of the story?
 Founder-led storytelling matters.
@@ -73,20 +75,6 @@ Get in the feeds. On the podcasts. In the rooms.
 Because products don’t build relationships.
 People do.
 
-
 #AIMusings
 #FounderMarketing
 
-
- ![1]()
-
- ![2]()
-
- Claude
-Conscious Reason:
-→ I use Claude when I want long, thoughtful, nuanced responses—especially for creative writing or sensitive topics where tone matters.
-
-Subconscious Signals:
-→ Listening to Dario Amodei (CEO of Anthropic) on multiple podcasts helped build that mental model of Claude as the more “aligned,” cautious, and human-centric AI.
-→ Anthropic’s emphasis on Constitutional AI stuck with me—positioning Claude as the ethical, safe choice in my mental toolkit.
-→ But compared to ChatGPT or Perplexity, Claude lacks a visible, charismatic founder persona in my feeds, which means while I respect the product, the parasocial bond isn’t as strong.
