@@ -5,7 +5,7 @@ date: 2025-05-14 12:00:00 -0500
 categories: ai musings
 ---
 
-Storytelling isn’t just for humans anymore—it’s how we influence machines, too. In a conversation with Neha Nigandhi, we explored how the same principles that captivate audiences on stage can make prompts more powerful and aligned when interacting with AI. Those who master storytelling—whether to people or algorithms—will hold the ultimate leverage in this new era of communication.
+Storytelling isn’t just for humans anymore—it’s how we influence machines, too. In a conversation with Neha Negandhi, we explored how the same principles that captivate audiences on stage can make prompts more powerful and aligned when interacting with AI. Those who master storytelling—whether to people or algorithms—will hold the ultimate leverage in this new era of communication.
 
 Storytelling hasn’t changed.
 But the audience has.
