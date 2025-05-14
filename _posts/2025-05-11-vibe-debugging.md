@@ -5,7 +5,11 @@ date: 2025-05-12 12:00:00 -0500
 categories: ai musings
 ---
 
-𝗔𝗜 𝗠𝘂𝘀𝗶𝗻𝗴𝘀 — 𝗩𝗶𝗯𝗲 𝗗𝗲𝗯𝘂𝗴𝗴𝗶𝗻𝗴
+
+In the world of programming, much of the real work isn’t about writing code—it’s about debugging invisible, maddening issues that don’t show up in tutorials. While building an AI chatbot, I hit a CORS error that only appeared on my machine, leading to hours of vibe debugging until ChatGPT pointed me to an unexpected culprit: AirPlay was using port 5000. This experience reminded me that the hardest bugs often live not in the code itself, but in the environment, and the real skill is staying calm and curious in the messy middle.
+
+
+Would you also like a short, catchy one-liner to use as a post intro? If yes, just say “Yes, intro.”
 
 Off late everyone loves to talk about “creating and building.”
 
