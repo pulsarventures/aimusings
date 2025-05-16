@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Demo Early, Demo Often"
-date: 2025-04-29 12:00:00 -0500
+date: 2025-05-15 12:00:00 -0500
 categories: build in public
 ---
 
