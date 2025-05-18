@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "buttons-on-lock-screen"
+title: "Lock Screen Widgets"
 date: 2025-05-18 12:00:00 -0500
 categories: ai musings
 ---
@@ -88,7 +88,10 @@ That’s where the shift is happening.
 
 What have you stopped doing… without even noticing?
 
-And no, this is not an Apple rant :) 
+And, yes - I still take Photos and Videos and Apple gave me a special button for it with the iPhone 16
+
+And no -  this is not an Apple rant 😀 
+
 
 #AIMusings
 #AIFirstMindset
