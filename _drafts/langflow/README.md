@@ -7,11 +7,26 @@
     - `ngrok` is set up using pulsarventures.subscriptions@gmail.com as Google login.
     - The ngrok configuration is the same as the steps mentioned here in the [Langflow docs](https://docs.langflow.org/mcp-server#deploy-your-server-externally).
     - I've additionally set up the ngrok tunnel to run using [a static domain](https://ngrok.com/blog-post/free-static-domains-ngrok-users) name `weekly-known-moray.ngrok-free.app` for easy access.
+    <details>
+    <summary>ngrok config file at `/home/ubuntu/.config/ngrok/ngrok.yml`</summary>
+
+    ```yaml
+    version: "3"
+    agent:
+        authtoken: 2wL0IjU78owrjR3ZwUFQZYZrO7n_2DPCKUPgQkEc1R39eyQ5m
+    endpoints:
+    - name: aimusings_langflow_tunnel
+        url: weekly-known-moray.ngrok-free.app
+        upstream:
+        url: 7860
+    ```
+    - Start `ngrok` with `ngrok start aimusings_langflow_tunnel` to start the tunnel.
+    </details>
 4. The server is running on `screen` to keep it alive even if the SSH session is closed. Run `screen -S <session_name>`, e.g., `screen -S langflow`, to create a new screen session.
    - `Ctrl + A; D` to detach from the screen session.
    - `screen -r <session_name>` to reattach to the screen session.
    - `screen -ls` to list all screen sessions.
-5. Langflow is already installed. The command to start up Langflow is `uv run langflow run --host 0.0.0.0 --port 7860 --env-file .env`.
+5. Langflow is already installed. The command to start up Langflow is `uv run langflow run --host 0.0.0.0 --port 7860 --env-file .env`. The command to install newer version of Langlfow is `uv pip install langflow langflow[postgresql] -U`.
 6. The `.env` file contains the OpenAI API key and other environment variables required for Langflow to run.
 
 ## Flow file
