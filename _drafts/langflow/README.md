@@ -29,6 +29,27 @@
 5. Langflow is already installed. The command to start up Langflow is `uv run langflow run --host 0.0.0.0 --port 7860 --env-file .env`. The command to install newer version of Langlfow is `uv pip install langflow langflow[postgresql] -U`.
 6. The `.env` file contains the OpenAI API key and other environment variables required for Langflow to run.
 
+<details>
+<summary>/home/ubuntu/.env file contents</summary>
+
+```yaml
+LANGFLOW_LOG_LEVEL="info"
+LANGFLOW_LOG_FILE="langflow.log"
+LANGFLOW_CONFIG_DIR="./data"
+LANGFLOW_SAVE_DB_IN_CONFIG_DIR="true"
+DO_NOT_TRACK="true"
+# Later we can set auth to the URL, https://docs.langflow.org/configuration-authentication
+#LANGFLOW_AUTO_LOGIN="False"
+#LANGFLOW_SUPERUSER="admin"
+#LANGFLOW_SUPERUSER_PASSWORD="FinciplesAI@123"
+#LANGFLOW_NEW_USER_IS_ACTIVE="True"
+OPENAI_API_KEY="CHANAGE_ME"
+SUPABASE_DEV="postgresql://postgres.bpdzwmmwdmfypoxoyahy:Supa%40ssandra2024@aws-0-us-east-2.pooler.supabase.com:6543/postgres"
+SUPABASE_MAIN="postgresql://postgres.viiflkpgditgovtpizbj:Supa%40ssandra2024@aws-0-us-east-1.pooler.supabase.com:6543/postgres"
+NGROK_AUTH_TOKEN=2wL0IjU78owrjR3ZwUFQZYZrO7n_2DPCKUPgQkEc1R39eyQ5m
+```
+</details>
+
 ## Flow file
 
 The [**Langflow** flow file](https://docs.langflow.org/concepts-flows) is codified and stored [here in this repository](./AImusings.space%20website%20Q%26A.json) for iterative development and version control.
