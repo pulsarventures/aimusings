@@ -5,8 +5,6 @@ date: 2025-05-21 12:00:00 -0500
 categories: ai musings
 ---
 
-AI Musings – Vibe Refactoring
-
 Sometimes vibe coding isn’t about shipping new features—it’s about cleaning up old ones with precision. 
 I used Cursor’s agent to refactor mislabeled code in my app, turning what would’ve been a tedious manual task into a smooth, 
 efficient flow. Agentic development brings the same creative energy to refactoring as it does to building.
