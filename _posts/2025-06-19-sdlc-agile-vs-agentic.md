@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SDLC - Agile to Agentic"
-date: 2025-04-29 12:00:00 -0500
+date: 2025-06-19 12:00:00 -0500
 categories: ai musings
 ---
 
