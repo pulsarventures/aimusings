@@ -155,9 +155,9 @@ disqus:
 google_analytics: "GTM-NK7NFV5H"
 
 collections:
-  polls:
-    output: true
-    permalink: /:collection/:path
+#  polls:
+#    output: true
+#    permalink: /:collection/:path
   other:
     output: true
     permalink: /:collection/:path
